@@ -1,1 +1,2 @@
-# dccrpg
+# Dungeon Crawler Carl - RPG
+This is a single-player, single-shot vibe-coded attempt to create a quick playable text-based RPG based on the first book of the Dungeon Crawler Carl series by Matt Dinniman.
